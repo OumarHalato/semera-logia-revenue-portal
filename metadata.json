@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Semera-Logia City Revenues Office Portal",
+  "description": "Official digital service portal for the Semera-Logia City Administration Revenues Office, Ethiopia.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
