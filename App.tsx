@@ -20,7 +20,6 @@ import {
   Loader2, 
   MapPin, 
   Phone, 
-  Clock, 
   Megaphone, 
   ChevronRight, 
   Lock 
